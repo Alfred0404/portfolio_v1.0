@@ -35,7 +35,10 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "Novembre 2025",
       endDate: "Novembre 2025",
       summary: [
-        "Conception d'une solution d'analyse de logs pour SOC\n- Détection de bugs/attaques (100% Précision, 97.5% Recall, 99.7% F1-score).\n- Accès à la phase final, pitch de notre solution devant un jury d'expert civiles et militaires.\n- Stack : Python, FastAPI, Streamlit, LangChain (RAG), ChromaDB, Docker, OVHcloud.",
+        "Conception d'une solution d'analyse de logs pour SOC",
+        "Détection de bugs/attaques (100% Précision, 97.5% Recall, 99.7% F1-score).",
+        "Accès à la phase final, pitch de notre solution devant un jury d'expert civiles et militaires.",
+        "Stack : Python, FastAPI, Streamlit, LangChain (RAG), ChromaDB, Docker, OVHcloud.",
       ],
     },
     {
